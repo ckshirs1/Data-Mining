@@ -1,6 +1,6 @@
 Just run on command line this command:
 
-$ python problem3.py
+$ python kmeans.py
 
 You will get the two graphs 1) graph 1 for k ws wss (Once you close this graph second graph will appear given below) 
 			    2) graph 2 for k vs sillhouette score ( close this graph after yoy have seen)
